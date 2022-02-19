@@ -1,5 +1,3 @@
-'use strict';
-
 const getRandomNumber = (min, max) => {
   if (max < min) {
     const SWAP = min;
